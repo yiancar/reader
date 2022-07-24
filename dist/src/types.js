@@ -30,6 +30,7 @@ var LightingTypeDefinition;
     LightingTypeDefinition["None"] = "none";
     LightingTypeDefinition["QMKLighting"] = "qmk_backlight";
     LightingTypeDefinition["QMKUnderglow"] = "qmk_underglow";
+    LightingTypeDefinition["QMKRGBmatrix"] = "qmk_rgb_matrix";
     LightingTypeDefinition["WTRGBBacklight"] = "wt_rgb_backlight";
     LightingTypeDefinition["WTMonoBacklight"] = "wt_mono_backlight";
 })(LightingTypeDefinition = exports.LightingTypeDefinition || (exports.LightingTypeDefinition = {}));

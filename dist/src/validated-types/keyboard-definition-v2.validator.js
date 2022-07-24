@@ -50,6 +50,7 @@ exports.KeyboardDefinitionV2Schema = {
                 'none',
                 'qmk_backlight',
                 'qmk_underglow',
+                'qmk_rgb_matrix',
                 'wt_mono_backlight',
                 'wt_rgb_backlight'
             ],
@@ -234,6 +235,7 @@ exports.KeyboardDefinitionV2Schema = {
                         'none',
                         'qmk_backlight',
                         'qmk_underglow',
+                        'qmk_rgb_matrix',
                         'wt_mono_backlight',
                         'wt_rgb_backlight'
                     ],

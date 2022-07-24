@@ -104,6 +104,7 @@ export declare enum LightingTypeDefinition {
   None = 'none',
   QMKLighting = 'qmk_backlight',
   QMKUnderglow = 'qmk_underglow',
+  QMKRGBmatrix = 'qmk_rgb_matrix',
   WTRGBBacklight = 'wt_rgb_backlight',
   WTMonoBacklight = 'wt_mono_backlight'
 }
